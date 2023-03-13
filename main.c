@@ -2,6 +2,7 @@
 #include <stdlib.h>
 #include "copyArray.h"
 #include "createArray.h"
+#include "minMax1.h"
 
 int main() {
     printf("\tProjeto e Análise de Algoritmos\n");
@@ -12,9 +13,14 @@ int main() {
     scanf("%d", &n);
 
     arrayOriginal = (int*) malloc(n * sizeof(int));
+    geraArrayAleatorio(arrayOriginal, n);
+
+
+
     array = (int*) malloc(n * sizeof(int));
+    copyArray(arrayOriginal, array, n);
 
-
+    arrayminMax1(arrayOriginal, n);
 
     return 0;
 }
