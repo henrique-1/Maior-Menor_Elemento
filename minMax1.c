@@ -20,7 +20,8 @@ void arrayminMax1(int arrayOriginal[], int n){
         }
     }
 
-    printf("O maior elemento do array é %d\n", currentMax);
-    printf("O menor elemento do array é %d\n", currentMin);
+    printf("\n\nUtilizando passo 1");
+    printf("\nO maior elemento do array é %d\n", currentMax);
+    printf("O menor elemento do array é %d", currentMin);
     showOperations(numOperations);
 }
