@@ -1,0 +1,13 @@
+# ninja log v5
+1	393	1678691101943286397	CMakeFiles/Maior_e_Menor_Elemento_de_um_Array.dir/createArray.c.o	508019db34c0ef2a
+7	46	1678691450427111588	CMakeFiles/Maior_e_Menor_Elemento_de_um_Array.dir/minMax1.c.o	59c010841cce8eef
+0	395	1678691101943291897	CMakeFiles/Maior_e_Menor_Elemento_de_um_Array.dir/numOps.c.o	2e146da06bf4e2db
+38	89	1678691471763048580	Maior_e_Menor_Elemento_de_um_Array	59fb47c34c028bb7
+2	369	1678691317475048891	CMakeFiles/Maior_e_Menor_Elemento_de_um_Array.dir/main.c.o	2f32d000c196c03d
+1	395	1678691101943305939	CMakeFiles/Maior_e_Menor_Elemento_de_um_Array.dir/copyArray.c.o	f958abc94fbae6cc
+1	38	1678691471711143088	CMakeFiles/Maior_e_Menor_Elemento_de_um_Array.dir/printArray.c.o	d96dcf10f331059f
+1	136	1678692245350119865	CMakeFiles/Maior_e_Menor_Elemento_de_um_Array.dir/main.c.o	2f32d000c196c03d
+2	136	1678692245350117573	CMakeFiles/Maior_e_Menor_Elemento_de_um_Array.dir/minMax1.c.o	59c010841cce8eef
+2	136	1678692245350119907	CMakeFiles/Maior_e_Menor_Elemento_de_um_Array.dir/minMax2.c.o	feebf79aaf9e2151
+2	136	1678692245350115199	CMakeFiles/Maior_e_Menor_Elemento_de_um_Array.dir/minMax3.c.o	bcb4de04c9bff087
+136	199	1678692245414812938	Maior_e_Menor_Elemento_de_um_Array	47c9317b03c2250a

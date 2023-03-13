@@ -3,6 +3,8 @@
 #include "copyArray.h"
 #include "createArray.h"
 #include "minMax1.h"
+#include "minMax2.h"
+#include "minMax3.h"
 #include "printArray.h"
 
 int main() {
@@ -22,6 +24,7 @@ int main() {
     copyArray(arrayOriginal, array, n);
 
     arrayminMax1(arrayOriginal, n);
-
+    arrayminMax2(arrayOriginal, n);
+    arrayminMax3(arrayOriginal, n);
     return 0;
 }

@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.24"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Maior_e_Menor_Elemento_de_um_Array",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Maior_e_Menor_Elemento_de_um_Array::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Maior_e_Menor_Elemento_de_um_Array-Debug-983b8cf76a5048146aed.json",
+					"name" : "Maior_e_Menor_Elemento_de_um_Array",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/bissoli/Documents/Estudos/Projeto e An\u00e1lise de Algor\u00edtmos/Listex 02/Maior e Menor Elemento de um Array/cmake-build-debug",
+		"source" : "/Users/bissoli/Documents/Estudos/Projeto e An\u00e1lise de Algor\u00edtmos/Listex 02/Maior e Menor Elemento de um Array"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
