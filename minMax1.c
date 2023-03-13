@@ -14,13 +14,14 @@ void arrayminMax1(int arrayOriginal[], int n){
             currentMax = arrayOriginal[i];
             numOperations++;
         }
-        else if(arrayOriginal[i] < currentMin){
+
+        if(arrayOriginal[i] < currentMin){
             currentMin = arrayOriginal[i];
             numOperations++;
         }
     }
 
-    printf("\n\nUtilizando passo 1");
+    printf("\n\nminMax 1");
     printf("\nO maior elemento do array é %d\n", currentMax);
     printf("O menor elemento do array é %d", currentMin);
     showOperations(numOperations);
