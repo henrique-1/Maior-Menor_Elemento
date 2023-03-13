@@ -1,5 +1,7 @@
 #include <stdio.h>
+#include <stdlib.h>
 #include "copyArray.h"
+#include "createArray.h"
 
 int main() {
     printf("\tProjeto e Análise de Algoritmos\n");
@@ -11,6 +13,8 @@ int main() {
 
     arrayOriginal = (int*) malloc(n * sizeof(int));
     array = (int*) malloc(n * sizeof(int));
+
+
 
     return 0;
 }
